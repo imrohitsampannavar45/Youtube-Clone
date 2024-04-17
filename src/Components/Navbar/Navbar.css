@@ -40,7 +40,7 @@ nav{
     border-radius: 50%;
 }
 
-@media (max-width:900px) {
+@media (max-width:550px) {
     .menu-icon{
         display: none;
     }
