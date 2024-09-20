@@ -9,5 +9,5 @@ Currently, two official plugins are available:
 
 ## Preview
 
-[youtube clone.webm](https://github.com/user-attachments/assets/e3dee161-c0ef-4141-b34d-a10d4899984b)
 
+[youtube clone.webm](https://github.com/user-attachments/assets/cf5d3495-693a-4168-80c6-9a6f98d02071)
